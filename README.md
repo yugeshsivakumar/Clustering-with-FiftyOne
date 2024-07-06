@@ -33,8 +33,8 @@ export OPENAI_API_KEY=sk-...
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/clustering-with-fiftyone.git
-cd clustering-with-fiftyone
+git clone https://github.com/yugeshsivakumar/Clustering-with-FiftyOne.git
+cd Clustering-with-FiftyOne
 ```
 2. Run the app.py script to load data, create features, compute clusters, and visualize them:
 
