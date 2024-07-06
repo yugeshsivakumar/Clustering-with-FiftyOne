@@ -10,7 +10,7 @@ dataset = foz.load_zoo_dataset("coco-2017", split="validation")
 dataset.select_fields().keep_fields()
 
 # # rename and persist to database
-# dataset.name = "jerry"
+# dataset.name = "clustering-demo"
 # dataset.persistent = True
 
 
