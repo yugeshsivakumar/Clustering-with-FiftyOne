@@ -60,7 +60,9 @@ After running app.py, navigate to http://localhost:5151/ to access the applicati
 
 
 
+
 ![result](https://github.com/yugeshsivakumar/Testing_Repo/assets/156910899/e92874b4-0a20-4e65-9c43-616bba110939)
+
 
 
 
